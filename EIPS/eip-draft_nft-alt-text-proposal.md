@@ -96,6 +96,9 @@ A primary concern is cross-site scripting (XSS) since the process involves fetch
 
 It is worth noting that this potential vulnerability isn't limited to alternative text but extends to any text data sourced from metadata.
 
+## Note on Audio Content
+
+While this EIP centers on alternative text for static images, the significance of captions for video or music-based NFTs should not be overlooked. It's crucial to adhere to captioning best practices for such content. When applicable, captions should be embedded directly within the video or music content, separate from the metadata. Refer to WCAG for comprehensive guidelines and resources on proper captioning.
 
 ## Copyright
 
